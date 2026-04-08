@@ -1,6 +1,5 @@
 # Extreme Heat Prediction Using Impact-Centric Variables
 ### Bachelor of Science in Computer Science — Thesis Project
-**Davao City, Philippines**
 
 ---
 
